@@ -3,10 +3,10 @@
 Multi-file static site. Plain HTML/CSS/JS, no build step, no npm — deploy as-is.
 
 ## Deploy (GitHub Pages, project site)
-1. Create repo `velora-salon-spa` under the `alexcharvin` account.
+1. Create repo `velora-salon-spa` under the `yourdaddy67` account.
 2. Push this folder's contents to the repo root (or `main` branch).
 3. Settings → Pages → Source: Deploy from a branch → `main` / `/ (root)`.
-4. Live at `https://alexcharvin.github.io/velora-salon-spa/`.
+4. Live at `https://yourdaddy67.github.io/velora-salon-spa/`.
 
 All internal paths are relative (`assets/...`, `index.html`) because project sites live under a subpath.
 
